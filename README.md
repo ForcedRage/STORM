@@ -1,4 +1,4 @@
--  Hello World, I’m STO☈M.
+-  Hello World, I am STO☈M.
 -  I’m interested in modding games.
 -  Currently I am working on learning visual studios.
 -  I’m looking to collaborate (or learn from others) on modding Garry's Mod and/or preferably Halo Wars Definitive Edition.
