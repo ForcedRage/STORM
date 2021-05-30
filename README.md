@@ -13,3 +13,5 @@ Feel free to join us in our server:
 ╚█████╔╝██║░░██║███████╗██║░░██║██║░╚═╝░██║██║░░░██║░░░██║░░██║██████╔╝
 ░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═════╝░
 https://discord.gg/zMNH6mU
+
+P.S. ForcedRage does not exist anymore.
